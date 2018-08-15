@@ -38,6 +38,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Security](#security)
 * [Swift](#swift)
 * [Web development](#web-development)
+* [Data Engineering](#Data-Engineering)
 
 ## .NET
 
@@ -1006,11 +1007,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: At least once a month
   * **Runtime**: 30 - 70 mins, regularly ~55 mins
 
-* [Frontend Weekend](https://soundcloud.com/frontend-weekend)
-
-  * **Description**: An interview podcast with famous Russian web developers.
-  * **Frequency**: Once every week
-  * **Runtime**: 30 - 95 mins, regularly ~55 mins
+## Swift
 
 * [Full Stack Radio](http://www.fullstackradio.com/)
 
@@ -1059,6 +1056,21 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Podcast with a focus on front-end web development - In Brazilian Portuguese.
   * **Frequency**: Apparently podcast ended in 2016
   * **Runtime**: 15 - 90 mins, regularly ~40 mins
+  
+## Data Engineering 
+
+* [Roaring Elephant](https://roaringelephant.org/)
+
+  * **Description**: A weekly community podcast about Apache Hadoop and the surrounding ecosystem.
+  * **Frequency**: Once every week
+  * **Runtime**: 15 - 90 mins, regularly ~45 mins
+
+* [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
+
+  * **Description**: A podcast about modern data management.
+  * **Frequency**: Once every week
+  * **Runtime**: 40 - 90 mins, regularly ~40 mins
+
 
 ## License
 
